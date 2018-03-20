@@ -44,7 +44,7 @@ fieldNumber	| Field Coll Ref
 higherGeography	| Field Coll Place
 eventDate	| Field Collection Earliest
 
-##Mappings
+## Mappings
 
 1.	Add a Darwin core occurrence 
 2.	Select source - should be the CSV exported from Vernon.
@@ -60,11 +60,10 @@ eventDate	| Field Collection Earliest
 7.	Publish
 
 
-##Todo
+## Todo
 
-- [x]
-- [ ]
-
+- [x] This is a complete item
+- [ ] This is an incomplete item
 
 
 
