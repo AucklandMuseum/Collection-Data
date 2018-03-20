@@ -1,4 +1,4 @@
-#**Getting started with Botany data**
+# Getting started with Botany data
 
 # Where we send our data
 
