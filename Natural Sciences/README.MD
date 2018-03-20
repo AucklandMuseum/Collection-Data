@@ -50,11 +50,11 @@ eventDate	| Field Collection Earliest
 2.	Select source - should be the CSV exported from Vernon.
 3.	The system should Auto fill 22 fields based on the field names.
 4.	You need to add a few static fields
-	5.	Basis of record = Preserved Specimen
-	6.	type = PhysicalObject
-	6.	Language = en
-	7.	institutionCode = AK
-	8.	collectionCode = AK
+	- Basis of record = Preserved Specimen
+	- type = PhysicalObject
+	- Language = en
+	- institutionCode = AK
+	- collectionCode = AK
 5.	Save
 6.	Click resource title to return to main page
 7.	Publish
