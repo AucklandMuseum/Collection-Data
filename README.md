@@ -13,11 +13,9 @@ We provide multiple entry points into our data
 
 -  CSV export button : Found on the search results and individual record pages this function allows you to access a simplified version of the data about our records that can be viewed and studied in any standard database software. 
 
-- HTML version of the API : A webpage that allows you to view the raw data from our API in a standard browser.
+- Json and Json-ld data via the API : A rest-ish style interface into the data that allows searches and access to the media associated with the objects. Please read more about how to use this tool via our [Online Collections API Wiki](https://github.com/AucklandMuseum/AucklandMuseum_API), along with our [Cenotaph API Wiki](https://github.com/AucklandMuseum/Online_Cenotaph_API).
 
-- Json and Json-ld data via the API : A rest-ish style interface into the data that allows searches and access to the media associated with the objects. Available at [api.aucklandmuseum.com](api.aucklandmuseum.com)  
-
-- Sparql endpoint : A linked data search system that allows complex queries against the entire data-set.
+- Sparql endpoint : A linked data search system that allows complex queries against the entire data-set (FOR CENOTAPH DATA ONLY).
 
 -  Data exports: Selected data exports available for free download on Github.
 
